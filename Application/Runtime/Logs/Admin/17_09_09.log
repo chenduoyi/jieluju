@@ -1,0 +1,51 @@
+[ 2017-09-09T22:43:27+08:00 ] 127.0.0.1 /admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8] Undefined variable: topmenu D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 125 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 126 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 126 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 126 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 126 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 126 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 127 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 127 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 127 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 127 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 127 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 128 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 128 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 128 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 128 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 128 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 129 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 129 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 129 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 129 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 129 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 130 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 130 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 130 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 130 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 130 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 131 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 131 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 131 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 131 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 131 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018265s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018303s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000475s ]
+

@@ -1,0 +1,529 @@
+[ 2017-09-13T23:39:04+08:00 ] 127.0.0.1 /admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Undefined variable: topmenu D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 125 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 126 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 126 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 126 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 126 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 126 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 127 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 127 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 127 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 127 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 127 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 128 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 128 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 128 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 128 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 128 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 129 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 129 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 129 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 129 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 129 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 130 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 130 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 130 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 130 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 130 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 131 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 131 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 131 行.
+NOTIC: [8] Undefined variable: k D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 131 行.
+NOTIC: [8] Undefined variable: vo D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 131 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010046s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010082s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000704s ]
+
+[ 2017-09-13T23:39:07+08:00 ] 127.0.0.1 /index.php/Admin/Node/index.html?_=1505317145066
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0033s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ju_node` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `ju_node` ORDER BY `id` desc  [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/Public/pagerForm.html): failed to open stream: No such file or directory D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Common\function.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005929s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005960s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000636s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000672s ]
+
+[ 2017-09-13T23:39:10+08:00 ] 127.0.0.1 /index.php/Admin/Node/resume/id/1/navTabId/Node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0031s ]
+SQL: UPDATE `ju_node` SET `status`='1' WHERE `id` IN ('1') [ RunTime:0.0581s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\CommonController::getReturnUrl(), called in D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php on line 334 and defined D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 61 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\CommonController::getReturnUrl(), called in D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php on line 334 and defined D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 61 行.
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 62 行.
+
+[ 2017-09-13T23:39:11+08:00 ] 127.0.0.1 /index.php/Admin/Node/forbid/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0031s ]
+SQL: UPDATE `ju_node` SET `status`='0' WHERE `id` IN ('1') [ RunTime:0.0516s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\CommonController::getReturnUrl(), called in D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php on line 294 and defined D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 61 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\CommonController::getReturnUrl(), called in D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php on line 294 and defined D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 61 行.
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 62 行.
+
+[ 2017-09-13T23:39:17+08:00 ] 127.0.0.1 /index.php/Admin/Node/foreverdelete/id/1/navTabId//index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0034s ]
+SQL: DELETE FROM `ju_node` WHERE `id` IN ('1') [ RunTime:0.0531s ]
+
+[ 2017-09-13T23:39:19+08:00 ] 127.0.0.1 /index.php/Admin/Node/index.html?_=1505317145067
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000653s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0031s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ju_node` LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: p D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 151 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/Public/pagerForm.html): failed to open stream: No such file or directory D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined variable: list D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\3b413a7ffc5043a6cb35ecf769ae0bb3.php 第 51 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006337s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006372s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000578s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000605s ]
+
+[ 2017-09-13T23:39:45+08:00 ] 127.0.0.1 /index.php/Admin/Node/index.html?_=1505317145068
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0027s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ju_node` LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: p D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 151 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/Public/pagerForm.html): failed to open stream: No such file or directory D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined variable: list D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\3b413a7ffc5043a6cb35ecf769ae0bb3.php 第 51 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006319s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006353s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2017-09-13T23:39:46+08:00 ] 127.0.0.1 /index.php/Admin/Node/index.html?_=1505317145069
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0035s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ju_node` LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: p D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 151 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/Public/pagerForm.html): failed to open stream: No such file or directory D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined variable: list D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\3b413a7ffc5043a6cb35ecf769ae0bb3.php 第 51 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006269s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006335s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000587s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2017-09-13T23:39:47+08:00 ] 127.0.0.1 /index.php/Admin/Node/add?_=1505317145070
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: id D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 189 行.
+SQL: SELECT * FROM `ju_node` WHERE `id` = null LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+NOTIC: [8] Undefined index:  D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\af16c5807684ad699547382dca62a8b7.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030355s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030419s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001514s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001904s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001989s ]
+
+[ 2017-09-13T23:39:54+08:00 ] 127.0.0.1 /index.php/Admin/Node/insert/navTabId//index.php/Admin?callbackType=closeCurrent
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0319s ]
+NOTIC: [8] Undefined index: validate D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `ju_node` (`id`,`pid`,`name`,`title`,`sort`,`status`,`remark`) VALUES ('0','0','111','111','20','1','') [ RunTime:0.0599s ]
+
+[ 2017-09-13T23:40:28+08:00 ] 127.0.0.1 /index.php/Admin/Node/index.html?_=1505317226389
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0036s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ju_node` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ju_node` ORDER BY `id` desc  [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/Public/pagerForm.html): failed to open stream: No such file or directory D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Common\function.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007041s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-09-13T23:40:54+08:00 ] 127.0.0.1 /index.php/Admin/Node/index.html?_=1505317226390
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ju_node` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ju_node` ORDER BY `id` desc  [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/Public/pagerForm.html): failed to open stream: No such file or directory D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Common\function.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006181s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006216s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000652s ]
+
+[ 2017-09-13T23:40:57+08:00 ] 127.0.0.1 /index.php/Admin/Node/delete/id/2/navTabId//index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0037s ]
+SQL: UPDATE `ju_node` SET `status`='-1' WHERE `id` IN ('2') [ RunTime:0.0605s ]
+
+[ 2017-09-13T23:40:58+08:00 ] 127.0.0.1 /index.php/Admin/Node/index.html?_=1505317226391
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0035s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ju_node` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ju_node` ORDER BY `id` desc  [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/Public/pagerForm.html): failed to open stream: No such file or directory D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Common\function.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006143s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006177s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000645s ]
+
+[ 2017-09-13T23:41:16+08:00 ] 127.0.0.1 /index.php/Admin/Node/index.html?_=1505317226392
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ju_node` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ju_node` ORDER BY `id` desc  [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/Public/pagerForm.html): failed to open stream: No such file or directory D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Common\function.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006550s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006584s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2017-09-13T23:43:21+08:00 ] 127.0.0.1 /index.php/Admin/Node/index.html?_=1505317226393
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0032s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ju_node` WHERE `status` <> -1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: p D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 151 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/Public/pagerForm.html): failed to open stream: No such file or directory D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: list D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\3b413a7ffc5043a6cb35ecf769ae0bb3.php 第 51 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007142s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007175s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000604s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2017-09-13T23:43:48+08:00 ] 127.0.0.1 /index.php/Admin/Node/index.html?_=1505317226394
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0028s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ju_node` WHERE `status` <> -1 LIMIT 1   [ RunTime:0.0135s ]
+NOTIC: [8] Undefined variable: p D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 151 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/Public/pagerForm.html): failed to open stream: No such file or directory D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined variable: list D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\3b413a7ffc5043a6cb35ecf769ae0bb3.php 第 51 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006210s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006242s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2017-09-13T23:43:49+08:00 ] 127.0.0.1 /index.php/Admin/Node/index.html?_=1505317226395
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0027s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ju_node` WHERE `status` <> -1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: p D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 151 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/Public/pagerForm.html): failed to open stream: No such file or directory D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: list D:\xampp\htdocs\ju\Application\Runtime\Cache\Admin\3b413a7ffc5043a6cb35ecf769ae0bb3.php 第 51 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006038s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000657s ]
+
+[ 2017-09-13T23:44:02+08:00 ] 127.0.0.1 /index.php/Admin/Node/index.html?_=1505317226396
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ju_node` WHERE `status` <> -1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ju_node` WHERE `status` <> -1 ORDER BY `id` desc  [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/Public/pagerForm.html): failed to open stream: No such file or directory D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Common\function.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006198s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006229s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000645s ]
+
+[ 2017-09-13T23:44:08+08:00 ] 127.0.0.1 /index.php/Admin/Node/forbid/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0031s ]
+SQL: UPDATE `ju_node` SET `status`='0' WHERE `id` IN ('2') [ RunTime:0.0386s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\CommonController::getReturnUrl(), called in D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php on line 294 and defined D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 61 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\CommonController::getReturnUrl(), called in D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php on line 294 and defined D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 61 行.
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 62 行.
+
+[ 2017-09-13T23:44:11+08:00 ] 127.0.0.1 /index.php/Admin/Node/index.html?_=1505317226397
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0027s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ju_node` WHERE `status` <> -1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ju_node` WHERE `status` <> -1 ORDER BY `id` desc  [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/Public/pagerForm.html): failed to open stream: No such file or directory D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Common\function.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006379s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006440s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000630s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000658s ]
+
+[ 2017-09-13T23:44:12+08:00 ] 127.0.0.1 /index.php/Admin/Node/resume/id/2/navTabId/Node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0028s ]
+SQL: UPDATE `ju_node` SET `status`='1' WHERE `id` IN ('2') [ RunTime:0.0379s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\CommonController::getReturnUrl(), called in D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php on line 334 and defined D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 61 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\CommonController::getReturnUrl(), called in D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php on line 334 and defined D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 61 行.
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 62 行.
+
+[ 2017-09-13T23:44:14+08:00 ] 127.0.0.1 /index.php/Admin/Node/index.html?_=1505317226398
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ju_node` WHERE `status` <> -1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ju_node` WHERE `status` <> -1 ORDER BY `id` desc  [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/Public/pagerForm.html): failed to open stream: No such file or directory D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Common\function.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006168s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000652s ]
+

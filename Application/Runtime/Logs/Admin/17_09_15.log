@@ -1,0 +1,54 @@
+[ 2017-09-15T00:15:54+08:00 ] 127.0.0.1 /index.php/Admin/Node/resume/id/4/navTabId/Node.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0035s ]
+SQL: UPDATE `ju_node` SET `status`='1' WHERE `id` IN ('4') [ RunTime:0.0401s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\CommonController::getReturnUrl(), called in D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php on line 334 and defined D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 61 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\CommonController::getReturnUrl(), called in D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php on line 334 and defined D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 61 行.
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 62 行.
+
+[ 2017-09-15T00:16:06+08:00 ] 127.0.0.1 /index.php/Admin/Node/index.html?_=1505402764598
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0036s ]
+SQL: SELECT COUNT(id) AS tp_count FROM `ju_node` WHERE `status` <> -1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ju_node` WHERE `status` <> -1 ORDER BY `id` desc  [ RunTime:0.0002s ]
+NOTIC: [2] Division by zero D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Admin/View/Public/pagerForm.html): failed to open stream: No such file or directory D:\xampp\htdocs\ju\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Common\function.php 第 35 行.
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Common\function.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007146s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007177s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-09-15T00:16:14+08:00 ] 127.0.0.1 /index.php/Admin/Node/forbid/id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+SQL: SHOW COLUMNS FROM `ju_node` [ RunTime:0.0030s ]
+SQL: UPDATE `ju_node` SET `status`='0' WHERE `id` IN ('4') [ RunTime:0.0396s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\CommonController::getReturnUrl(), called in D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php on line 294 and defined D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 61 行.
+NOTIC: [2] Missing argument 2 for Admin\Controller\CommonController::getReturnUrl(), called in D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php on line 294 and defined D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 61 行.
+NOTIC: [8] Use of undefined constant __URL__ - assumed '__URL__' D:\xampp\htdocs\ju\Application\Admin\Controller\CommonController.class.php 第 62 行.
+
