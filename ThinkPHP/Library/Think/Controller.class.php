@@ -207,12 +207,13 @@ abstract class Controller {
      * @param int $json_option 传递给json_encode的option参数
      * @return void
      */
-    protected function ajaxReturn($data,$type='',$json_option=0) {
+    protected function ajaxReturn($data,$type='',$json_option=0) {//var_dump($data);exit;
         if(empty($type)) $type  =   C('DEFAULT_AJAX_RETURN');
         switch (strtoupper($type)){
             case 'JSON' :
                 // 返回JSON数据格式到客户端 包含状态信息
                 header('Content-Type:application/json; charset=utf-8');
+                // header('Content-Type:text/html; charset=utf-8'); // zhanghuihua@msn.com
                 exit(json_encode($data,$json_option));
             case 'XML'  :
                 // 返回xml格式数据
@@ -266,13 +267,12 @@ abstract class Controller {
             $data['url']          =   $jumpUrl;
 
             //================ dwz add ======================
-            $data['navTabId']     =  $_REQUEST['navTabId'];    // zhanghuihua@msn.com
-            $data['asd']          =  $_REQUEST['asd'];  // zhanghuihua@msn.com
-
-            $data['rel']          =  $_REQUEST['rel'];  // zhanghuihua@msn.com
-            $data['callbackType'] =  $_REQUEST['callbackType'];    // zhanghuihua@msn.com
-            $data['forwardUrl']   =  $_REQUEST['forwardUrl'];    // zhanghuihua@msn.com
-            $data['confirmMsg']   =  $_REQUEST['confirmMsg'];    // zhanghuihua@msn.com
+            $data['navTabId']     =  $_REQUEST['navTabId'];         // zhanghuihua@msn.com
+            $data['asd']          =  $_REQUEST['asd'];              // zhanghuihua@msn.com
+            $data['rel']          =  $_REQUEST['rel'];              // zhanghuihua@msn.com
+            $data['callbackType'] =  $_REQUEST['callbackType'];     // zhanghuihua@msn.com
+            $data['forwardUrl']   =  $_REQUEST['forwardUrl'];       // zhanghuihua@msn.com
+            $data['confirmMsg']   =  $_REQUEST['confirmMsg'];       // zhanghuihua@msn.com
             //================ dwz add ======================
 
             $this->ajaxReturn($data);

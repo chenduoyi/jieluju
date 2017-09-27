@@ -58,8 +58,8 @@
                 <td>
                     <!-- {$vo['status']|showStatus=$vo['id'],'navTabAjaxMenu'}&nbsp;&nbsp;
                     <a href="__URL__/edit/id/{$vo['id']}" target="dialog">编辑</a> -->
-                    <a target="ajaxTodo" style="color:blue" href="{:U('resume',array('id'=>$vo['id'],'navTabId'=>'Node','asd'=>'index'))}" callback="navTabAjaxMenu">启用</a>&nbsp;
-                    <a target="ajaxTodo" style="color:blue" href="{:U('forbid',array('id'=>$vo['id'],'navTabId'=>'Node','asd'=>'index'))}" callback="navTabAjaxMenu">禁用</a>
+                    <a target="ajaxTodo" style="color:blue" href="{:U('resume',array('id'=>$vo['id']))}">启用</a>&nbsp;
+                    <a target="ajaxTodo" style="color:blue" href="{:U('forbid',array('id'=>$vo['id']))}">禁用</a>
                 </td>
             </tr>
         </volist>

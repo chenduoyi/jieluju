@@ -59,7 +59,7 @@ class CommonController extends Controller {
 	 * @throws ThinkExecption
 	 */
 	public function getReturnUrl() {
-		return __MODULE__ . '/' . CONTROLLER_NAME . '/' . ACTION_NAME;
+		return __MODULE__ . '/' . CONTROLLER_NAME . '/' . C('DEFAULT_ACTION');
 	}
 
 	/**

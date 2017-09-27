@@ -125,12 +125,14 @@ function navTabAjaxDone(json){
 	DWZ.ajaxDone(json);
 	if (json[DWZ.keys.statusCode] == DWZ.statusCode.ok){
 		if (json.navTabId){ //把指定navTab页面标记为需要“重新载入”。注意navTabId不能是当前navTab页面的
+			//================== dwz add ========================
 			// navTab.reloadFlag(json.navTabId);
 			if (json.asd) {
 				navTab.reloadFlag(json.navTabId+'/'+json.asd);
 			}else{
 				navTab.reloadFlag(json.navTabId);
 			}
+			//================== dwz add ========================
 		} else { //重新载入当前navTab页面
 			var $pagerForm = $("#pagerForm", navTab.getCurrentPanel());
 			var args = $pagerForm.size()>0 ? $pagerForm.serializeArray() : {}

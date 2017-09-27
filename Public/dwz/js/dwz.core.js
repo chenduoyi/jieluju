@@ -117,15 +117,15 @@ var DWZ = {
 			else DWZ.loadLogin();
 		} else if (json[DWZ.keys.statusCode] == DWZ.statusCode.ok){
 			if(json[DWZ.keys.message] && alertMsg) alertMsg.correct(json[DWZ.keys.message]);
+			//================ dwz add =============================
 			if(json.navTabId){
 				if (json.asd) {
 					navTab.reloadFlag(json.navTabId+'/'+json.asd);
 				}else{
 					navTab.reloadFlag(json.navTabId);
 				}
-				
-
 			}
+			//================ dwz add =============================
 		};
 	},
 
