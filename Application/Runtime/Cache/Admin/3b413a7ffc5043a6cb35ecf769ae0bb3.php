@@ -1,4 +1,8 @@
-<?php if (!defined('THINK_PATH')) exit();?>
+<?php if (!defined('THINK_PATH')) exit();?><form id="pagerForm" action="/Admin/Node" method="post">
+    <input type="hidden" name="pageNum" value="1"/>
+    <input type="hidden" name="_order" value="<?php echo ($_REQUEST["_order"]); ?>"/>
+    <input type="hidden" name="_sort" value="<?php echo ($_REQUEST["_sort"]); ?>"/>
+</form>
 
 <div class="pageHeader">
     <form onsubmit="return navTabSearch(this);" action="/Admin/Node" method="post">
@@ -28,8 +32,8 @@
     <div class="panelBar">
         <ul class="toolBar">
             <li><a class="add" href="/Admin/Node/add" target="dialog" mask="true"><span>新增</span></a></li>
-            <li><a class="delete" href="/Admin/Node/delete/id/{sid_node}/navTabId//Admin/asd/" target="ajaxTodo"
-                   calback="navTabAjaxMenu" title="你确定要删除吗？" warn="请选择节点"><span>删除</span></a></li>
+            <li><a class="delete" href="/Admin/Node/delete/id/{sid_node}" target="ajaxTodo"
+                   title="你确定要删除吗？" warn="请选择节点"><span>删除</span></a></li>
             <li><a class="edit" href="/Admin/Node/add/id/{sid_node}" target="dialog" mask="true"
                    warn="请选择节点"><span>修改</span></a></li>
         </ul>
@@ -50,15 +54,13 @@
         <tbody>
         <?php if(is_array($list)): $i = 0; $__LIST__ = $list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><tr target="sid_node" rel="<?php echo ($vo['id']); ?>">
                 <td><?php echo ($vo['id']); ?></td>
-                <td><a href="/Admin/Node/index/pid/<?php echo ($vo['id']); ?>/" target="navTab" rel="/Admin"><?php echo ($vo['name']); ?></a></td>
+                <td><a href="/Admin/Node/index/pid/<?php echo ($vo['id']); ?>/" target="navTab" rel="node<?php echo ($vo['id']); ?>"><?php echo ($vo['name']); ?></a></td>
                 <td><?php echo ($vo['title']); ?></td>
                 <td><?php echo ($vo['sort']); ?></td>
                 <td><?php echo (getStatus($vo['status'])); ?></td>
                 <td>
-                    <!-- <?php echo (showStatus($vo['status'],$vo['id'],'navTabAjaxMenu')); ?>&nbsp;&nbsp;
-                    <a href="/Admin/Node/edit/id/<?php echo ($vo['id']); ?>" target="dialog">编辑</a> -->
-                    <a target="ajaxTodo" style="color:blue" href="<?php echo U('resume',array('id'=>$vo['id'],'navTabId'=>'Node','asd'=>'index'));?>" callback="navTabAjaxMenu">启用</a>&nbsp;
-                    <a target="ajaxTodo" style="color:blue" href="<?php echo U('forbid',array('id'=>$vo['id'],'navTabId'=>'Node','asd'=>'index'));?>" callback="navTabAjaxMenu">禁用</a>
+                    <a target="ajaxTodo" style="color:blue" href="<?php echo U('resume',array('id'=>$vo['id']));?>">启用</a>&nbsp;
+                    <a target="ajaxTodo" style="color:blue" href="<?php echo U('forbid',array('id'=>$vo['id']));?>">禁用</a>
                 </td>
             </tr><?php endforeach; endif; else: echo "" ;endif; ?>
         </tbody>

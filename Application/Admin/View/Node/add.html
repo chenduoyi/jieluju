@@ -1,11 +1,14 @@
 <div class="pageContent">
 
-    <form method="post" action="__URL__/<neq name='vo.id' value=''>update<else />insert</neq>/navTabId/Node?callbackType=closeCurrent"
+    <form method="post" action="__URL__/<neq name='vo.id' value=''>update<else />insert</neq>/navTabId/__MODULE__?callbackType=closeCurrent"
           class="pageForm required-validate" onsubmit="return validateCallback(this, dialogAjaxDone)">
         <input type="hidden" name="user_id" value="<?php echo $_SESSION[C('USER_AUTH_KEY')] ?>">
         <input type="hidden" name="id" value="{$vo.id}">
         <input type="hidden" name="ajax" value="1">
-        <input type="hidden" name="pid" value="{$vo.pid}">
+        <if condition="!$vo['id']">
+            <input type="hidden" name="pid" value="{$pid}">
+            <input type="hidden" name="level" value="{$level}">
+        </if>
 
         <div class="pageFormContent" layoutH="58">
             <div class="unit">

@@ -39,14 +39,14 @@ class CommonController extends Controller {
 
 	public function index() {
 		//列表过滤器，生成查询Map对象
-		$map = $this->_search();
+		$map = $this->_search();var_dump($map);
 		if (method_exists($this, '_filter')) {
 			$this->_filter ($map);
 		}
 		$model = D(CONTROLLER_NAME);
 		if (!empty($model)) {
 			$this->_list($model, $map);
-		}
+		}//exit;
 		$this->display();
 	}
 
@@ -187,7 +187,7 @@ class CommonController extends Controller {
 	function add($view = '') {
 		$model = M(CONTROLLER_NAME);
 		$id = $_REQUEST[$model->getPk()];
-		$vo = $model->getById($id);//echo M()->getLastSql();
+		$vo = $model->getById($id);
 		$this->assign('vo', $vo);
 		if ($view) {
 			$this->display('detail');

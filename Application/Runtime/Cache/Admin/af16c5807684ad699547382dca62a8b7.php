@@ -1,11 +1,12 @@
 <?php if (!defined('THINK_PATH')) exit();?><div class="pageContent">
 
-    <form method="post" action="/index.php/Admin/Node/<?php if(($vo["id"]) != ""): ?>update<?php else: ?>insert<?php endif; ?>/navTabId/Node?callbackType=closeCurrent"
+    <form method="post" action="/Admin/Node/<?php if(($vo["id"]) != ""): ?>update<?php else: ?>insert<?php endif; ?>/navTabId//Admin?callbackType=closeCurrent"
           class="pageForm required-validate" onsubmit="return validateCallback(this, dialogAjaxDone)">
         <input type="hidden" name="user_id" value="<?php echo $_SESSION[C('USER_AUTH_KEY')] ?>">
         <input type="hidden" name="id" value="<?php echo ($vo["id"]); ?>">
         <input type="hidden" name="ajax" value="1">
-        <input type="hidden" name="pid" value="<?php echo ($vo["pid"]); ?>">
+        <?php if(!$vo['id']): ?><input type="hidden" name="pid" value="<?php echo ($pid); ?>">
+            <input type="hidden" name="level" value="<?php echo ($level); ?>"><?php endif; ?>
 
         <div class="pageFormContent" layoutH="58">
             <div class="unit">
